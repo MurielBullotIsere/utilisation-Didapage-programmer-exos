@@ -1,4 +1,4 @@
-# Programmation d'exercices pour mes élèves
+# Utilisation du codage pour créer des exercices pour mes élèves
 ### 2 exemples de livres numériques multimédia faits avec le logiciel Didapage.  
 
 Les premières versions du logiciel permettait de définir des conditions, des enchaînements et des interactions.  
